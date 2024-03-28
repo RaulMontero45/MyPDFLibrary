@@ -1,0 +1,14 @@
+C:\Users\cmont\OneDrive\Escritorio\Portafolio\MyPDFLibrary\bin\Debug\net8.0\MyPDFLibrary.exe
+C:\Users\cmont\OneDrive\Escritorio\Portafolio\MyPDFLibrary\bin\Debug\net8.0\MyPDFLibrary.deps.json
+C:\Users\cmont\OneDrive\Escritorio\Portafolio\MyPDFLibrary\bin\Debug\net8.0\MyPDFLibrary.runtimeconfig.json
+C:\Users\cmont\OneDrive\Escritorio\Portafolio\MyPDFLibrary\bin\Debug\net8.0\MyPDFLibrary.dll
+C:\Users\cmont\OneDrive\Escritorio\Portafolio\MyPDFLibrary\bin\Debug\net8.0\MyPDFLibrary.pdb
+C:\Users\cmont\OneDrive\Escritorio\Portafolio\MyPDFLibrary\obj\Debug\net8.0\MyPDFLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmont\OneDrive\Escritorio\Portafolio\MyPDFLibrary\obj\Debug\net8.0\MyPDFLibrary.AssemblyInfoInputs.cache
+C:\Users\cmont\OneDrive\Escritorio\Portafolio\MyPDFLibrary\obj\Debug\net8.0\MyPDFLibrary.AssemblyInfo.cs
+C:\Users\cmont\OneDrive\Escritorio\Portafolio\MyPDFLibrary\obj\Debug\net8.0\MyPDFLibrary.csproj.CoreCompileInputs.cache
+C:\Users\cmont\OneDrive\Escritorio\Portafolio\MyPDFLibrary\obj\Debug\net8.0\MyPDFLibrary.dll
+C:\Users\cmont\OneDrive\Escritorio\Portafolio\MyPDFLibrary\obj\Debug\net8.0\refint\MyPDFLibrary.dll
+C:\Users\cmont\OneDrive\Escritorio\Portafolio\MyPDFLibrary\obj\Debug\net8.0\MyPDFLibrary.pdb
+C:\Users\cmont\OneDrive\Escritorio\Portafolio\MyPDFLibrary\obj\Debug\net8.0\MyPDFLibrary.genruntimeconfig.cache
+C:\Users\cmont\OneDrive\Escritorio\Portafolio\MyPDFLibrary\obj\Debug\net8.0\ref\MyPDFLibrary.dll
